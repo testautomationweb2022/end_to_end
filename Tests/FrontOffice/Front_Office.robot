@@ -13,13 +13,13 @@ Test Teardown  End Web Test
 *** Test Cases ***
 Should be able to access "Team" page somenting
     [Documentation]  This is test 1
-    [Tags]  test1
+    [Tags]  Smoke
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
 
 "Team" page should match requirements
     [Documentation]  This is test 2
-    [Tags]  test2
+    [Tags]  Smoke
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
     FrontOfficeApp.Validate "Team" Page

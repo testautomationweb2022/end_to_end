@@ -13,5 +13,5 @@ Test Teardown  End Web Test
 *** Test Cases ***
 Should be able to access "Landing" page
     [Documentation]  This is test 1
-    [Tags]  test1
+    [Tags]  Smoke
     BackOfficeApp.Go to Landing Page

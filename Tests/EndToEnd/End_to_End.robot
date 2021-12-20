@@ -13,6 +13,6 @@ Test Teardown  End Web Test
 *** Test Cases ***
 Should be able to access both sites
     [Documentation]  This is test 1
-    [Tags]  test1
+    [Tags]  Smoke
     FrontOfficeApp.Go to Landing Page
     BackOfficeApp.Go to Landing Page
