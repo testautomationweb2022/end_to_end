@@ -17,7 +17,7 @@ Should be able to access "Team" page somenting
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
 
-"Team" page should match requirements
+"Team" page should match requirements SOMETHING ADDED 
     [Documentation]  This is test 2
     [Tags]  Smoke
     FrontOfficeApp.Go to Landing Page
