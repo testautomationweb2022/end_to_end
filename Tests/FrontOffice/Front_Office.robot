@@ -11,7 +11,7 @@ Test Teardown  End Web Test
 
 
 *** Test Cases ***
-Should be able to access "Team" page
+Should be able to access "Team" page somenting
     [Documentation]  This is test 1
     [Tags]  test1
     FrontOfficeApp.Go to Landing Page
